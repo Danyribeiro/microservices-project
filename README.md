@@ -1,3 +1,3 @@
 # Microservices-project
 
-Visa desenvolver um projeto com arquitetura baseada em microsserviços usando Spring Cloud.
+Projeto desenvolvido com arquitetura baseada em microsserviços usando Spring Cloud.
