@@ -2,7 +2,11 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="shopping-cart.main" target="1.8" />
+      <module name="shopping-cart.test" target="1.8" />
       <module name="shopping_card" target="11" />
+      <module name="shopping_card.main" target="11" />
+      <module name="shopping_card.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
